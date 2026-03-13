@@ -1,4 +1,4 @@
-// File: C:\Users\root\Desktop\Custom Label\app\api\feeds\route.ts
+// File: C:\Users\root\Desktop\Custom Label 2\app\api\feeds\route.ts
 import * as entry from '../../../../../app/api/feeds/route.js'
 import type { NextRequest } from 'next/server.js'
 
