@@ -1,0 +1,5 @@
+{
+  "/api/liveFeed/sourceProxy/route": "app/api/liveFeed/sourceProxy/route.js",
+  "/api/feeds/route": "app/api/feeds/route.js",
+  "/page": "app/page.js"
+}
